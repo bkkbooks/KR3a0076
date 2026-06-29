@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR3a0076/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3a0076/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 內訓
+  date: '2015-08-24 22:59:59.804259'
+  source:
+    repository: kanripo
+    path: KR3a0076
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0076_000-WYG.yaml, hash: 'sha256:de1dbade74ecc7240995dbc5afc6c41efaaa67dc2d5ed9d13973ebc5131244c0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0076_000-WYG.markers.yaml, hash: 'sha256:b13444b09db526c9021d9cd1cd65bffdd576fda86b60b88b5fecc998f21401e5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0076_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 471
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0076_WYG_000-3a
+    span:
+    - body
+    - 471
+    - 1023
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0076_WYG_000-5a
+    span:
+    - body
+    - 1023
+    - 18109
+  label: 内訓
+  type: section
+  level: 1
+hash: sha256:4f97b635cc86959480886c25bb9ec1669c2b23bea99e5522be0235005cf2f632
