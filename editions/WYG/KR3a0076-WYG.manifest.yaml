@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3a0076_000-WYG.yaml, hash: 'sha256:de1dbade74ecc7240995dbc5afc6c41efaaa67dc2d5ed9d13973ebc5131244c0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0076_000-WYG.markers.yaml, hash: 'sha256:b13444b09db526c9021d9cd1cd65bffdd576fda86b60b88b5fecc998f21401e5'}
+  - {seq: 0, role: markers, filename: assets/KR3a0076_000-WYG.markers.yaml, hash: 'sha256:44130737c4b9d642f900698cdfb71d06e448facbaab0e76ef8619550cc8596c9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 内訓
   type: section
   level: 1
-hash: sha256:4f97b635cc86959480886c25bb9ec1669c2b23bea99e5522be0235005cf2f632
+hash: sha256:fd50fea65cc065379ce4eae9ae9b4ddd84db0746be81de6a41767b0fad2fbc50
